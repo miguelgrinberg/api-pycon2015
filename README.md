@@ -20,7 +20,7 @@ Installation
 
 The commands below install the application and its dependencies:
 
-    $ git clone https://github.com/miguelgrinberg/api-pycon2014.git
+    $ git clone https://github.com/miguelgrinberg/api-pycon2015.git
     $ cd api-pycon2015
     $ python3.4 -m venv venv
     $ source venv/bin/activate
