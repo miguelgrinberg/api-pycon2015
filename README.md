@@ -145,7 +145,7 @@ Collections can be sorted by adding the `sort` argument to the query string of t
 
     [field_name],[asc|desc]
 
-To specify multiple sort orders contactenate them with a `;` separator. The sort order can be `asc` or `desc`. If not specified `asc` is used. Examples:
+To specify multiple sort orders concatenate them with a `;` separator. The sort order can be `asc` or `desc`. If not specified `asc` is used. Examples:
 
 - Sort by name: `sort=name`
 - Sort by name in descending order: `sort=name,desc`
